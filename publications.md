@@ -1,5 +1,6 @@
 
 
+## Publications
 ## Journal Articles
 
 Ayaz, M., & Mughal, M. (2024)  
