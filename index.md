@@ -3,7 +3,7 @@
 Economist | Development Economics | Agricultural Economics
 
 📍 Pau, France  
-📧 m.ayaz@univ-pau.fr  
+📧 m.ayaz@univ-pau.fr  and  ayaznasar@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/ayaz-khan-12b0b780  
 
 ---
