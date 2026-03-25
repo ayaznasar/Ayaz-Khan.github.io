@@ -8,6 +8,11 @@ Economist | Development | Agricultural & Environmental Economics
 📧 m.ayaz@univ-pau.fr  and  ayaznasar@gmail.com
 🌐 [Google Scholar](https://scholar.google.fr/citations?user=vDB0ClQAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/ayaz-khan-12b0b780)
 
+![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)
+
+![Profile Views](https://komarev.com/ghpvc/?username=m-ayazKhan)
+![GitHub followers](https://img.shields.io/github/followers/m-ayazKhan)
+![GitHub stars](https://img.shields.io/github/stars/m-ayazKhan?affiliations=OWNER)
 ---
 
 ## About Me
