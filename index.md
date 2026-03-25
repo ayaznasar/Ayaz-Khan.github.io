@@ -31,7 +31,7 @@ I am an applied economist specializing in **development economics, agricultural 
 
 - **Flood shocks and food security in Pakistan**
 - **Land inequality and agricultural productivity**
-- - **Livelihood of smallholder farmers in developing countries**
+- **Livelihood of smallholder farmers in developing countries**
 - **Climate change and SDGs**
 
 👉 See full work: [Research](research.md)
@@ -53,13 +53,6 @@ I am an applied economist specializing in **development economics, agricultural 
 👉 Full list: [Publications](publications.md)
 ---
 
-## CV
-
-👉 [Download CV](assets/Ayaz_CV.pdf)
-
-
-
-
 ## Education
 
 **PhD in Economics**  
@@ -73,9 +66,9 @@ University of Balochistan
 
 ---
 
-## Download CV
+## CV
 
-[Download my CV](assets/Ayaz_CV.pdf)
+👉 [Download my CV](assets/Ayaz_CV.pdf)
 
 ---
 
