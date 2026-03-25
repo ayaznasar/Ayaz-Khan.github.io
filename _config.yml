@@ -9,5 +9,6 @@ author:
 header_pages:
   - cv.md
   - publications.md
+  - conferences.md
 
 markdown: kramdown
