@@ -65,7 +65,7 @@ University of Balochistan
 
 ## Academic Profiles
 
-Google Scholar (add link)
+Google Scholar:  https://scholar.google.fr/citations?user=vDB0ClQAAAAJ&hl=en
 
 HAL (add link)
 
