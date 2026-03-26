@@ -32,23 +32,6 @@ Innovative Development Strategies – USAID Project
 
 ---
 
-## Teaching
-
-MPhil / MS Courses
-
-Agriculture and Resource Economics  
-Advanced Econometrics  
-Applied Econometrics  
-Advanced Microeconomics
-
-Master Courses
-
-Econometrics  
-Development Economics  
-Statistics
-
----
-
 ## Awards
 
 MOPGA Postdoctoral Fellowship (France)  
