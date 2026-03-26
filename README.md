@@ -1,5 +1,5 @@
 
-Economist | Development Economics | Agricultural & Environmental Economics  
+Economist | Development Economics | Agricultural | Environmental Economics  
 
 🌍 Based in France  
 📧 m.ayaz@univ-pau.fr  and ayaznasar@gmail.com
