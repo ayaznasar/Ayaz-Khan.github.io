@@ -13,7 +13,7 @@ Economist | Development | Agricultural | Environmental Economics
 
 ## About Me
 
-I am an applied economist specializing in **development economics, agricultural productivity, and environmental sustainability**. My research focuses on understanding how economic shocks, climate change, and policy interventions affect poverty, food security, and inequality.
+I am an applied economist specializing in **development economics, agricultural productivity, and environmental sustainability**. My research focuses on understanding how economic shocks, climate change, and policy interventions affect Agricultural productivity, poverty, food security, and inequality.
 
 <div style="clear: both;"></div>
 ---
