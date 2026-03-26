@@ -1,4 +1,4 @@
-## Courses taught
+## Teaching
 ## MPhil / MS Courses
 
 Agriculture and Resource Economics
