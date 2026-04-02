@@ -1,4 +1,9 @@
-# Research
+---
+layout: single
+title: "Research"
+permalink: /research/
+author_profile: true
+---
 ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=m-ayazKhan)
