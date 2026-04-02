@@ -1,19 +1,31 @@
 title: "Muhammad Ayaz, PhD"
 description: "Economist | Development | Agricultural | Environmental Economics"
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
 
+  
 # Author profile (THIS CONTROLS SIDEBAR)
 author:
-  name: "Muhammad Ayaz, PhD"
-  avatar: "/assets/profile.jpg"
-  bio: "Postdoctoral Research Fellow, Eklore-ed School of Management, France"
+  name   : "Muhammad Ayaz, PhD"
+  avatar : "/assets/profile.jpg"
+  bio    : "Postdoctoral Research Fellow, Eklore-ed School of Management, France"
   location: "France"
 
-  email: "m.ayaz@univ-pau.fr"
-  googlescholar: "https://scholar.google.fr/citations?user=vDB0ClQAAAAJ"
-  linkedin: "https://www.linkedin.com/in/ayaz-khan-12b0b780"
-  orcid: ""
-  researchgate: "https://www.researchgate.net/"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:m.ayaz@univ-pau.fr"
+
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.fr/citations?user=vDB0ClQAAAAJ"
+
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/ayaz-khan-12b0b780"
+
+    - label: "HAL"
+      icon: "ai ai-open-access"
+      url: "https://hal.science/984215"
 
 # Navigation menu
 header_pages:
@@ -30,6 +42,8 @@ show_excerpts: true
 # Plugins (safe for GitHub Pages)
 plugins:
   - jekyll-feed
+  plugins:
+  - jekyll-include-cache
 
 # Markdown
 markdown: kramdown
