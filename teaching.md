@@ -1,4 +1,9 @@
-## Teaching
+---
+layout: single
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
 ## MPhil / MS Courses
 
 - Agriculture and Resource Economics
