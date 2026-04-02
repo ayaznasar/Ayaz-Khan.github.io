@@ -1,4 +1,9 @@
-## 🏆 Awards
+---
+layout: single
+title: "Awards"
+permalink: /awards/
+author_profile: true
+---
 
 - MOPGA Postdoctoral Fellowship  (France) - 2023
 - International Doctoral Mobility Award, E2S, UPPA, France - 2021
