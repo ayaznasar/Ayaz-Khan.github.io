@@ -1,6 +1,9 @@
-
-
-## Publications
+---
+layout: single
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 ## Journal Articles
 
 Ayaz, M., & Mughal, M. (2024)  
