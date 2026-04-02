@@ -1,20 +1,11 @@
 ---
-layout: home
+layout: single
 author_profile: true
----
-
-# Muhammad Ayaz, PhD
-
-**Postdoctoral Research Fellow**  
-Eklore-ed School of Management, France  
-
-Economist specializing in **development, agricultural, and environmental economics**
-
 ---
 
 ## About Me
 
-I am an applied economist focusing on the intersection of **climate shocks, agricultural productivity, and household welfare**. My research examines how environmental risks and policy interventions shape **food security, poverty dynamics, and inequality**, particularly in developing countries.
+I am an applied economist specializing in development, agricultural, and environmental economics. My research focuses on climate shocks, food security, and rural livelihoods.
 
 ---
 
@@ -30,12 +21,12 @@ I am an applied economist focusing on the intersection of **climate shocks, agri
 
 ## Featured Research
 
-- Flood shocks and food security in Pakistan  
-- Land inequality and agricultural productivity  
-- Livelihood strategies of smallholder farmers  
-- Climate change and Sustainable Development Goals  
+- Flood shocks and food security  
+- Land inequality and productivity  
+- Smallholder livelihoods  
+- Climate change and SDGs  
 
-👉 See full work: [Research](research.md)
+👉 [See Research](research.md)
 
 ---
 
