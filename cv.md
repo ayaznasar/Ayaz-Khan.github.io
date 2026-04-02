@@ -1,5 +1,9 @@
-
-## CV 
+---
+layout: single
+title: "CV"
+permalink: /cv/
+author_profile: true
+---
 ## Academic Positions
 
 2023–2026  
