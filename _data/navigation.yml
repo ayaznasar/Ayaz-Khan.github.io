@@ -1,0 +1,18 @@
+main:
+  - title: "Research"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Conferences"
+    url: /conferences/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Awards"
+    url: /awards/
+
+  - title: "CV"
+    url: /cv/
