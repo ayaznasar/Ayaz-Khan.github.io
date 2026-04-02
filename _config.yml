@@ -37,6 +37,7 @@ header_pages:
   - conferences.md
   - teaching.md
   - awards.md
+  - funding.md
   - cv.md
 
 show_excerpts: true
