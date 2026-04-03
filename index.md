@@ -5,19 +5,23 @@ author_profile: true
 
 ## About me
 
+I am an applied economist specializing in development economics, agricultural productivity, and environmental sustainability. I completed my PhD in Economics from Université de Pau et des Pays de l’Adour (France) in 2022.
 
-I am an applied economist specializing in development, agricultural, and environmental economics. My research focuses on climate shocks, food security, and rural livelihoods.
+My research focuses on:
 
+Agricultural productivity and land inequality
+Climate change and sustainable development
+Food security and poverty
+Environmental sustainability
+Applied microeconometrics
 ---
 
 ## Research Interests
-
 - Development Economics  
 - Agricultural Economics  
 - Environmental Economics  
 - Climate Change  
 - Food Security  
-
 ---
 
 ## Featured Research
