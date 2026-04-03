@@ -45,13 +45,12 @@ Asghar, M., **Ayaz, M.**, & Ali, S. (2025). Ecological sustainability in environ
 
 ## Book Chapters
 
- 
--  **Climate Disasters and Sustainability Challenges: A Way Forward in Industry 4.0**
+ -  **Climate Disasters and Sustainability Challenges: A Way Forward in Industry 4.0**
 Asghar, M., **Ayaz, M.**, Ullah, S., Ali, S. (2024). Climate Disasters and Sustainability Challenges: A Way Forward in Industry 4.0. The Palgrave Handbook of Green Finance for Sustainable Development. Palgrave Studies in Impact Finance. Palgrave Macmillan, Cham,  155–190. https://doi.org/10.1007/978-3-031-65756-6_6 . (Corresponding author) <span style="font-size:14px;">
 [See details](https://link.springer.com/chapter/10.1007/978-3-031-65756-6_6)
 </span>
 
--  **Pakistan: A Future Food and Agricultural Power in 2050?** 
+-  **Pakistan: A Future Food and Agricultural Power in 2050?**
 Brun,M., **Ayaz, M.**, & Mughal, M. (2025). Pakistan, a future food and agricultural power in 2050? Feeding 2050: from fiction to reality, IRIS Club Déméter, pp 275‑298. https://doi.org/10.3917/iris.abis.2025.01.0275.  <span style="font-size:14px;">
 [See details](https://shs.cairn.info/le-demeter-2025--9782493756039-page-275?lang=fr)
 </span>
