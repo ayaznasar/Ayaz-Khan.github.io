@@ -10,7 +10,7 @@ author_profile: true
 **Ayaz, M.**, & Mughal, M. (2024). Farm-size and Productivity – The Role of Family Labor. Economic Development and Cultural Change, 72, (2): 959-995. (First & corresponding author). <span style="font-size:14px;">
 [See details](https://www.journals.uchicago.edu/doi/abs/10.1086/721837?journalCode=edcc)
 </span>
-**Gender-specific effects of Russia-Ukraine conflict – Evidence from South Africa**  
+-  **Gender-specific effects of Russia-Ukraine conflict – Evidence from South Africa**  
 **Ayaz, M.**, Martin, H., Maisonnave, H., & Mughal, M. (2025). Gender-specific effects of Russia-Ukraine conflict – Evidence from South Africa. Revue d’économie politique, 135 (6): 941-999. (First author)  <span style="font-size:14px;">
 [See details](https://shs.cairn.info/revue-revue-deconomie-politique-2025-6-page-941?lang=fr)
 </span>
