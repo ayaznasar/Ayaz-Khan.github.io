@@ -9,11 +9,12 @@ I am an applied economist specializing in development economics, agricultural pr
 
 My research focuses on:
 
-Agricultural productivity and land inequality
-Climate change and sustainable development
-Food security and poverty
-Environmental sustainability
-Applied microeconometrics
+- Agricultural productivity and land inequality
+- Climate change and sustainable development
+- Food security and poverty
+- Environmental sustainability
+- Applied microeconometrics
+
 ---
 
 ## Research Interests
@@ -22,6 +23,7 @@ Applied microeconometrics
 - Environmental Economics  
 - Climate Change  
 - Food Security  
+
 ---
 
 ## Featured Research
