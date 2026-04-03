@@ -35,6 +35,8 @@ Information Economics and Policy
 [See details](https://www.sciencedirect.com/science/article/abs/pii/S0167624524000234)
 </span>
 
+**How to cite:** Ubaid Ali, Mazhar Mughal, Muhammad Ayaz, Junaid Ahmed, Migrant remittances and the adoption of information and communication technology,
+Information Economics and Policy,Vol 68, 2024, 101101, ISSN 0167-6245
 
 Ayaz, M., & Mughal, M. (2022)  
 **Family workers’ reluctance to work on away farms and productivity**  
