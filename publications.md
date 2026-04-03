@@ -15,7 +15,7 @@ author_profile: true
 [See details](https://shs.cairn.info/revue-revue-deconomie-politique-2025-6-page-941?lang=fr)
 </span>
 -  **Land inequality and landlessness in Pakistan: Measuring the diverse nature of land disparities**  
-Ayaz, M., & Mughal, M. (2023). Land inequality and landlessness in Pakistan: Measuring the diverse nature of land disparities.  Land Use Policy, 131, 106720. ISSN 0264-8377. (First & corresponding author)
+**Ayaz, M.**, & Mughal, M. (2023). Land inequality and landlessness in Pakistan: Measuring the diverse nature of land disparities.  Land Use Policy, 131, 106720. ISSN 0264-8377. (First & corresponding author)
 <span style="font-size:14px;">
 [See details](https://www.sciencedirect.com/science/article/abs/pii/S0264837723001862)
 </span>
@@ -33,13 +33,17 @@ Asghar, M., **Ayaz, M.**, & Ali, S. (2025). Ecological sustainability in environ
 [See details](https://www.sciencedirect.com/science/article/abs/pii/S0264837725000250)
 </span>
 
+-  **Collateral damage ? Welfare Effects of The Ukraine War on Pakistan**
+**Ayaz, M.**, Sers, Charlotte., Maisonnave, H., & Mughal, M. (2023). Collateral damage? Welfare Effects of The Ukraine War on Pakistan. World Development Sustainability, 3, 100082. https://doi.org/10.1016/j.wds.2023.100082. size:14px;">
+[See details](https://www.sciencedirect.com/science/article/pii/S2772655X2300040X)
+</span>
 ---
 
 ## Book Chapters
 
  
 -  **Climate Disasters and Sustainability Challenges: A Way Forward in Industry 4.0**
-Asghar, M., Ayaz, M., Ullah, S., Ali, S. (2024). Climate Disasters and Sustainability Challenges: A Way Forward in Industry 4.0. The Palgrave Handbook of Green Finance for Sustainable Development. Palgrave Studies in Impact Finance. Palgrave Macmillan, Cham,  155–190. https://doi.org/10.1007/978-3-031-65756-6_6 . (Corresponding author) <span style="font-size:14px;">
+Asghar, M., **Ayaz, M.**, Ullah, S., Ali, S. (2024). Climate Disasters and Sustainability Challenges: A Way Forward in Industry 4.0. The Palgrave Handbook of Green Finance for Sustainable Development. Palgrave Studies in Impact Finance. Palgrave Macmillan, Cham,  155–190. https://doi.org/10.1007/978-3-031-65756-6_6 . (Corresponding author) <span style="font-size:14px;">
 [See details](https://link.springer.com/chapter/10.1007/978-3-031-65756-6_6)
 </span>
 
