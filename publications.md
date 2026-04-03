@@ -40,20 +40,21 @@ Information Economics and Policy,Vol 68, 101101, ISSN 0167-6245. <span style="fo
 
 -  **Collateral damage ? Welfare Effects of The Ukraine War on Pakistan**
 
- **Citation: Ayaz, M.**, Sers, Charlotte., Maisonnave, H., & Mughal, M. (2023). Collateral damage? Welfare Effects of The Ukraine War on Pakistan. World Development Sustainability, 3, 100082. https://doi.org/10.1016/j.wds.2023.100082. <span style="font-size:14px;">
+   **Citation: Ayaz, M.**, Sers, Charlotte., Maisonnave, H., & Mughal, M. (2023). Collateral damage? Welfare Effects of The Ukraine War on Pakistan. World Development Sustainability, 3, 100082. https://doi.org/10.1016/j.wds.2023.100082. <span style="font-size:14px;">
 [See details](https://www.sciencedirect.com/science/article/pii/S2772655X2300040X)
 </span>
 
 ## Book Chapters
 
  -  **Climate Disasters and Sustainability Challenges: A Way Forward in Industry 4.0**
-**Citation:** Asghar, M., **Ayaz, M.**, Ullah, S., Ali, S. (2024). Climate Disasters and Sustainability Challenges: A Way Forward in Industry 4.0. The Palgrave Handbook of Green Finance for Sustainable Development. Palgrave Studies in Impact Finance. Palgrave Macmillan, Cham,  155–190. https://doi.org/10.1007/978-3-031-65756-6_6 . (Corresponding author) <span style="font-size:14px;">
+
+    **Citation:** Asghar, M., **Ayaz, M.**, Ullah, S., Ali, S. (2024). Climate Disasters and Sustainability Challenges: A Way Forward in Industry 4.0. The Palgrave Handbook of Green Finance for Sustainable Development. Palgrave Studies in Impact Finance. Palgrave Macmillan, Cham,  155–190. https://doi.org/10.1007/978-3-031-65756-6_6 . (Corresponding author) <span style="font-size:14px;">
 [See details](https://link.springer.com/chapter/10.1007/978-3-031-65756-6_6)
 </span>
 
 -  **Pakistan: A Future Food and Agricultural Power in 2050?**
 
- **Citation:** Brun,M., **Ayaz, M.**, & Mughal, M. (2025). Pakistan, a future food and agricultural power in 2050? Feeding 2050: from fiction to reality, IRIS Club Déméter, pp 275‑298. https://doi.org/10.3917/iris.abis.2025.01.0275.  <span style="font-size:14px;">
+   **Citation:** Brun,M., **Ayaz, M.**, & Mughal, M. (2025). Pakistan, a future food and agricultural power in 2050? Feeding 2050: from fiction to reality, IRIS Club Déméter, pp 275‑298. https://doi.org/10.3917/iris.abis.2025.01.0275.  <span style="font-size:14px;">
 [See details](https://shs.cairn.info/le-demeter-2025--9782493756039-page-275?lang=fr)
 </span>
 
@@ -62,27 +63,28 @@ Information Economics and Policy,Vol 68, 101101, ISSN 0167-6245. <span style="fo
 
 -  **Gender‑specific effects of Russia‑Ukraine conflict ‑ Evidence from South Africa**
 
-  **Citation: Ayaz, M.**, Martin, H., Maisonnave, H., & Mughal, M. (2024). Gender‑specific effects of
+   **Citation: Ayaz, M.**, Martin, H., Maisonnave, H., & Mughal, M. (2024). Gender‑specific effects of
 Russia‑Ukraine conflict ‑ Evidence from South Africa. HAL Id: hal‑04535835. (First Author) <span style="font-size:14px;">
 [See details](https://hal.science/hal-04535835/)
 </span>
 
 -  **Echo Of The Cannons ? Economic Impact of the Ukraine War on Pakistan ‑A macro‑Micro Simulation Analysis**
- 
- **Citation: Ayaz, M.**, et al. (2022). Echo Of The Cannons ? Economic Impact of the Ukraine War on
+
+   **Citation: Ayaz, M.**, et al. (2022). Echo Of The Cannons ? Economic Impact of the Ukraine War on
 Pakistan ‑A macro‑Micro Simulation Analysis. hal‑03718240. (First Author)  <span style="font-size:14px;">
 [See details](https://hal.science/hal-03718240/)
 </span>
 
 -  **Land Inequality and Landlessness in Pakistan**
-  
- **Citation: Ayaz, M.**, & Mughal, M. (2023). *Land Inequality and Landlessness in Pakistan* HAL Id:
+
+   **Citation: Ayaz, M.**, & Mughal, M. (2023). *Land Inequality and Landlessness in Pakistan* HAL Id:
 hal‑04004784. (First Author & corresponding author)  <span style="font-size:14px;">
 [See details](https://ideas.repec.org/p/hal/wpaper/hal-04004784.html)
 </span>
 
 -  **Farm‑size and Productivity ‑ The Role of Family Labor**
-**Citation: Ayaz, M.**, & Mughal, M. (2022). Farm‑size and Productivity ‑ The Role of Family Labor. HAL Id: hal‑03669234. (First & corresponding author)  <span style="font-size:14px;">
+
+   **Citation: Ayaz, M.**, & Mughal, M. (2022). Farm‑size and Productivity ‑ The Role of Family Labor. HAL Id: hal‑03669234. (First & corresponding author)  <span style="font-size:14px;">
 [See details](https://univ-pau.hal.science/hal-03669234)
 </span>
 
