@@ -5,49 +5,32 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journal Articles
-
-Ayaz, M., & Mughal, M. (2024)  
-**Farm-size and Productivity – The Role of Family Labor**  
-Economic Development and Cultural Change
-<span style="font-size:14px;">
+ 
+-  **Farm-size and Productivity – The Role of Family Labor**  
+**Ayaz, M.**, & Mughal, M. (2024). Farm-size and Productivity – The Role of Family Labor. Economic Development and Cultural Change, 72, (2): 959-995. (First & corresponding author). <span style="font-size:14px;">
 [See details](https://www.journals.uchicago.edu/doi/abs/10.1086/721837?journalCode=edcc)
 </span>
-
-Ayaz, M., Martin, H., Maisonnave, H., & Mughal, M. (2024)  
 **Gender-specific effects of Russia-Ukraine conflict – Evidence from South Africa**  
-Revue d’économie politique
-<span style="font-size:14px;">
+**Ayaz, M.**, Martin, H., Maisonnave, H., & Mughal, M. (2025). Gender-specific effects of Russia-Ukraine conflict – Evidence from South Africa. Revue d’économie politique, 135 (6): 941-999. (First author)  <span style="font-size:14px;">
 [See details](https://shs.cairn.info/revue-revue-deconomie-politique-2025-6-page-941?lang=fr)
 </span>
-
-
 Ayaz, M., & Mughal, M. (2023)  
 **Land inequality and landlessness in Pakistan: Measuring the diverse nature of land disparities**  
 Land Use Policy
 <span style="font-size:14px;">
 [See details](https://www.sciencedirect.com/science/article/abs/pii/S0264837723001862)
 </span>
-
-Ali, U., Mughal, M., Ayaz, M., & Ahmed (2024)  
-**Migrant remittances and the adoption of information and communication technology**  
-Information Economics and Policy
-<span style="font-size:14px;">
+-  **Migrant remittances and the adoption of information and communication technology**  
+Ali, U., Mughal, M., **Ayaz, M.**, & Ahmed (2024). Migrant remittances and the adoption of information and communication technology.
+Information Economics and Policy,Vol 68, 101101, ISSN 0167-6245. <span style="font-size:14px;">
 [See details](https://www.sciencedirect.com/science/article/abs/pii/S0167624524000234)
 </span>
-
-**How to cite:** Ubaid Ali, Mazhar Mughal, Muhammad Ayaz, Junaid Ahmed, Migrant remittances and the adoption of information and communication technology,
-Information Economics and Policy,Vol 68, 2024, 101101, ISSN 0167-6245
-
-Ayaz, M., & Mughal, M. (2022)  
-**Family workers’ reluctance to work on away farms and productivity**  
-Development Economics Review
-<span style="font-size:14px;">
+-  **Family workers’ reluctance to work on away farms and productivity**  
+**Ayaz, M.**, & Mughal, M. (2022). Family workers’ reluctance to work on away farms and productivity. Revue d’économie du Développement, 30 : 119-125. (First & corresponding author).  <span style="font-size:14px;">
 [See details](https://www.bing.com/search?q=Family%20workers%E2%80%99%20reluctance%20to%20work%20on%20away%20farms%20and%20productivity&qs=n&form=QBRE&sp=-1&lq=0&pq=family%20workers%E2%80%99%20reluctance%20to%20work%20on%20away%20farms%20and%20productivity&sc=0-65&sk=&cvid=9D977890C62D4E59AD2CFB8AABE9658B)
 </span>
-
-Asghar, M., Ayaz, M., & Ali, S. (2025)  
-**Ecological sustainability in environmentally failed states**  
-Land Use Policy
+-  **Ecological sustainability in environmentally failed states**  
+Asghar, M., **Ayaz, M.**, & Ali, S. (2025). Ecological sustainability in environmentally failed states. Land Use Policy,  151, 107492, ISSN 0264-8377. 
 
 <span style="font-size:14px;">
 [See details](https://www.sciencedirect.com/science/article/abs/pii/S0264837725000250)
