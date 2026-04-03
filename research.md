@@ -32,8 +32,6 @@ This study explores the concept and policy aspects of intensive- and extensive-m
 </span>
 
 
-[See details](https://www.sciencedirect.com/science/article/abs/pii/S0264837723001862)
-
 ---
 ### Economic Shocks and Food Security in Pakistan
 This paper examines the gender-differentiated causal impact of Rosso-Ukrainian war on poverty, food security, inequality using microdata and simulation methods.
