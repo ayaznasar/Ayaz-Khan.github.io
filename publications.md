@@ -14,9 +14,10 @@ author_profile: true
 **Ayaz, M.**, Martin, H., Maisonnave, H., & Mughal, M. (2025). Gender-specific effects of Russia-Ukraine conflict – Evidence from South Africa. Revue d’économie politique, 135 (6): 941-999. (First author)  <span style="font-size:14px;">
 [See details](https://shs.cairn.info/revue-revue-deconomie-politique-2025-6-page-941?lang=fr)
 </span>
-Ayaz, M., & Mughal, M. (2023)  
-**Land inequality and landlessness in Pakistan: Measuring the diverse nature of land disparities**  
-Land Use Policy
+
+
+-  **Land inequality and landlessness in Pakistan: Measuring the diverse nature of land disparities**  
+Ayaz, M., & Mughal, M. (2023). Land inequality and landlessness in Pakistan: Measuring the diverse nature of land disparities.  Land Use Policy
 <span style="font-size:14px;">
 [See details](https://www.sciencedirect.com/science/article/abs/pii/S0264837723001862)
 </span>
