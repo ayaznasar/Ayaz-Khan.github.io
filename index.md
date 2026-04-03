@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-## About Me
+
 
 I am an applied economist specializing in development, agricultural, and environmental economics. My research focuses on climate shocks, food security, and rural livelihoods.
 
