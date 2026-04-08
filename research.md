@@ -25,17 +25,18 @@ In our paper published in Economic Development and Cultural Change (2024), we pr
 
 In a related contribution published in the “Revue d’économie du développement”, 2022, I further demonstrate that family workers’ reluctance to engage in off-farm employment plays a key role in sustaining small-farm productivity advantages.  We propose the cultural norms related to family honour and status as a possible explanation for the observed IR. Self-employed family farm workers are often unwilling to offer their services as paid labour to the “away farms” because of the notion of honour and social status and prefer to work on their family-owned farm even though they may obtain higher wages on away farms or from off-farm activities.
 This research contributes to the literature by providing micro-founded evidence on labour market imperfection, thereby offering a more nuanced explanation of productivity patterns in relation to farms of deferent sizes developing agriculture.
-For more details see 
-[For working paper click here](assets/paper1.pdf)
+For more details,  <span style="font-size:14px;">
+[Click here](https://www.journals.uchicago.edu/doi/abs/10.1086/721837?journalCode=edcc)
+</span>
 
+[For working paper, click here](assets/paper1.pdf)
 
 ## The Concept and Policy Implications of Measuring agricultural Land Inequality
 
-Measuring the precise nature and causes of land inequality is critical for addressing and implementing policy initiatives related to agricultural productivity, rural development income distribution. In our study, published in the “Land Use Policy” we argue that measuring land inequality solely among landowners does not provide a complete picture of land allocation among agricultural actors. We analysed land inequality (with or without the inclusion of landless peasants) as well as landlessness to present a holistic picture of land inequality across all districts of Pakistan. We developed two distinct measures of land inequality: the intensive (include only landowners) and extensive-margin (include landowners and landless peasants) land inequality. We found that inequalities measured without including landless peasants portray a completely different story of land disparities than that based on including landless workers. This study contributes to literature in terms of policy debates on land reforms, agricultural land and labour productivity, inclusive growth and inequalities. For more details <span style="font-size:14px;">
+Measuring the precise nature and causes of land inequality is critical for addressing and implementing policy initiatives related to agricultural productivity, rural development income distribution. In our study, published in the “Land Use Policy” we argue that measuring land inequality solely among landowners does not provide a complete picture of land allocation among agricultural actors. We analysed land inequality (with or without the inclusion of landless peasants) as well as landlessness to present a holistic picture of land inequality across all districts of Pakistan. We developed two distinct measures of land inequality: the intensive (include only landowners) and extensive-margin (include landowners and landless peasants) land inequality. We found that inequalities measured without including landless peasants portray a completely different story of land disparities than that based on including landless workers. This study contributes to literature in terms of policy debates on land reforms, agricultural land and labour productivity, inclusive growth and inequalities. For more details, <span style="font-size:14px;">
 [Clik here](https://www.sciencedirect.com/science/article/abs/pii/S0264837723001862)
 </span>
 [For working paper, click here](assets/paper2.pdf)
-
 
 ## Welfare and Development Outcomes in the aftermath of Economic and Climate Shocks
 
@@ -49,8 +50,11 @@ In a related study “Gender-specific effects of Russia-Ukraine conflict. Eviden
 -  Women are disproportionately affected in terms of food insecurity and poverty.
 -  Crisis impacts amplify pre-existing inequalities
 
+<span style="font-size:14px;">
+[For more details, Click here](https://shs.cairn.info/revue-revue-deconomie-politique-2025-6-page-941?lang=fr)
+</span>
 
-[For working paper click here](assets/paper3.pdf)
+[For working paper, click here](assets/paper3.pdf)
 
 
 
