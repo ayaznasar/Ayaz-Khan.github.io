@@ -13,6 +13,7 @@ author_profile: true
 
 ## Master Courses
 
+-  Poverty and Income Distribution
 - Econometrics
 - Development Economics
 - Environmental and Resource Economics
