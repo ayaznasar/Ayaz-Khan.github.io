@@ -63,7 +63,8 @@ For working paper [Click here](assets/paper3.pdf)
 
 ## Work in Progress
 
-- Climate shocks and household resilience
+- Climate change vis-a-vis farms and household resilience
+- Climate smart agriculture
 - Flood and SDGs achievement
 - Road network infrastructure and regional development  
 - Behavioural responses to environmental policy  
