@@ -39,7 +39,9 @@ Measuring the precise nature and causes of land inequality is critical for addre
 
 <img src="/assets/intlless.jpg" alt="Research" width="800" style="float:left; margin-right:20px;">
 
-
+To download image,  <span style="font-size:14px;">
+[Click here](assets/intlless.jpg)
+</span> 
 
 Moreover, we examine that the roots of the current patterns of land acquisition and ownership in Pakistan may be traced back to the British colonial system of land ownership and proprietorship rights in the nineteenth century and the tribal land distribution system practiced in the region. The colonial regime used land as a key tool to rule over the Indian Subcontinent. Land was used not only as a source of revenue, but also as a political instrument to control the masses and reward the elite for its pliability. We also examine how the basis of land distribution systems historically practiced in the region can determin the land inequality and landlessness in the region (Pakistan).
 The governance and the land settlement systems prevalent in the various regions during the colonial era are presented ad follows:
