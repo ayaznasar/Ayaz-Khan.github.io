@@ -24,8 +24,6 @@ A central contribution of this research lies in how farm productivity in relatio
 
 <img src="/assets/Figure3.jpg" alt="Research" width="380" style="float:left; margin-right:20px;">   <img src="/assets/Figure4.jpg" alt="Research" width="380" style="float:left; margin-right:20px;">
 
-
-
 In a related contribution published in the “Revue d’économie du développement”, 2022, I further demonstrate that family workers’ reluctance to engage in off-farm employment plays a key role in sustaining small-farm productivity advantages. We propose the cultural norms related to family honour and status as a possible explanation for the observed IR. Self-employed family farm workers are often unwilling to offer their services as paid labour to the “away farms” because of the notion of honour and social status and prefer to work on their family-owned farm even though they may obtain higher wages on away farms or from off-farm activities.
 This research contributes to the literature by providing micro-founded evidence on labour market imperfection, thereby offering a more nuanced explanation of productivity patterns in relation to farms of deferent sizes developing agriculture. For more details,  <span style="font-size:18px;">
 [Click here](https://www.journals.uchicago.edu/doi/abs/10.1086/721837?journalCode=edcc)
@@ -37,7 +35,19 @@ For working paper,  <span style="font-size:14px;">
 
 ## The Concept and Policy Implications of Measuring agricultural Land Inequality
 
-Measuring the precise nature and causes of land inequality is critical for addressing and implementing policy initiatives related to agricultural productivity, rural development income distribution. In our study, published in the “Land Use Policy” we argue that measuring land inequality solely among landowners does not provide a complete picture of land allocation among agricultural actors. We analysed land inequality (with or without the inclusion of landless peasants) as well as landlessness to present a holistic picture of land inequality across all districts of Pakistan. We developed two distinct measures of land inequality: the intensive (include only landowners) and extensive-margin (include landowners and landless peasants) land inequality. We found that inequalities measured without including landless peasants portray a completely different story of land disparities than that based on including landless workers. This study contributes to literature in terms of policy debates on land reforms, agricultural land and labour productivity, inclusive growth and inequalities. For more details, <span style="font-size:18px;">
+Measuring the precise nature and causes of land inequality is critical for addressing and implementing policy initiatives related to agricultural productivity, rural development income distribution. In our study, published in the “Land Use Policy” we argue that measuring land inequality solely among landowners does not provide a complete picture of land allocation among agricultural actors. We analysed land inequality (with or without the inclusion of landless peasants) as well as landlessness to present a holistic picture of land inequality across all districts of Pakistan. We developed two distinct measures of land inequality: the intensive (include only landowners) and extensive-margin (include landowners and landless peasants) land inequality. We found that inequalities measured without including landless peasants portray a completely different story of land disparities than that based on including landless workers. This study contributes to literature in terms of policy debates on land reforms, agricultural land and labour productivity, inclusive growth and inequalities. 
+
+<img src="/assets/intless.jpg" alt="Research" width="380" style="float:left; margin-right:20px;">
+
+
+
+Moreover, we examine that the roots of the current patterns of land acquisition and ownership in Pakistan may be traced back to the British colonial system of land ownership and proprietorship rights in the nineteenth century and the tribal land distribution system practiced in the region. The colonial regime used land as a key tool to rule over the Indian Subcontinent. Land was used not only as a source of revenue, but also as a political instrument to control the masses and reward the elite for its pliability. We also examine how the basis of land distribution systems historically practiced in the region can determin the land inequality and landlessness in the region (Pakistan).
+The governance and the land settlement systems prevalent in the various regions during the colonial era are presented ad follows:
+
+<img src="/assets/landgov.jpg" alt="Research" width="380" style="float:left; margin-right:20px;">
+
+
+For more details, <span style="font-size:18px;">
 [Clik here](https://www.sciencedirect.com/science/article/abs/pii/S0264837723001862)
 </span>
 
