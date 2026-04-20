@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Downloads"
+permalink: /downloads/
+author_profile: true
+---
+
 {% raw %}
 <div style="border:1px solid #ddd; padding:20px; border-radius:10px; background:#f9f9f9;">
 
