@@ -7,36 +7,36 @@ author_profile: true
 ## Academic Positions
 
 2023–2026  
-MOPGA Postdoctoral Fellow  
+**Postdoctoral Fellow**  
 Eklore-ed School of Management, France
 
 2017–2024  
-Assistant Professor  
+**Assistant Professor**  
 University of Balochistan
 
 2012–2017  
-Lecturer  
+**Lecturer**  
 University of Balochistan
 
 ---
 
 ## Consulting Experience
 
-Economist & Urban Development Expert  
+**Economist & Urban Development Expert**  
 Urban Development and Planning (Govt of Sindh)
 Micon Engineering Consultants
 
-Associate Consultant
+**Associate Consultant**
 Feasibility study of Tourism Resorts Development (Govt of Balochistan)
 Micon Engineering Consultants 
 
-Research Consultant  
+**Technical Expert**  
 Micro-Finance and Rural Development in Pakistan
 Application Européenne de Technologies et de Services (AETS), France
 
-Research Consultant
+**Research Consultant**
 Research Design for Training Impact Assessment in BEF Community Schools
 Balochistan Education Foundation (BEF), Govt of Balochistan
 
-Data Analyst  
+**Data Analyst**  
 Innovative Development Strategies – USAID Project
