@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "CV"
-permalink: /cv/
+title: "Positions"
+permalink: /positions/
 author_profile: true
 ---
 ## Academic Positions
