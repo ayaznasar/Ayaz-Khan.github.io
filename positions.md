@@ -40,24 +40,3 @@ Balochistan Education Foundation (BEF), Govt of Balochistan
 
 Data Analyst  
 Innovative Development Strategies – USAID Project
-
----
-
-## Skills
-
-Stata  
-R  
-Python  
-LaTeX  
-GIS  
-Satellite data analysis
-
----
-
-## Languages
-
-English – C2  
-French – B1  
-Persian – B1  
-Urdu – Native  
-Pashto – Native
