@@ -23,8 +23,14 @@ Python
 LaTeX  
 GIS  
 Kobo‑toolbox
+
 MS Excel
-Expertise in Satellite data, Remot Sensing Data, and Spatial Econometric analysis
+
+Satellite data
+
+Remot Sensing Data
+
+Spatial Econometric analysis
 
 - **QGIS and Google Earth Software**, Experience working on QGIS and google earth for treating vector and
 raster layers for research purposes such as mapping, network analysis, GIS coding, distance measurement,
